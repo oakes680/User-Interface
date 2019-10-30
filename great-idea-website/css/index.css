@@ -64,3 +64,106 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+.container {
+	max-width: 876px;
+	margin: 0 auto;
+}
+header {
+	vertical-align: middle;
+	padding-bottom: 40px;
+	margin-bottom: 20px;
+	border-bottom: solid 2px black
+}
+header nav {
+	display:inline-block;	
+	margin-top: 40px;
+}
+
+header nav a {
+	display:inline-block;	
+	text-decoration: none;
+	margin-right: 40px;
+	color: grey;
+}
+
+.logo {
+	display:inline-block;
+	margin-left: 100px;
+}
+
+ h1 {
+	margin-top: 10px;
+	display: inline-block;
+	font-size: 60px;
+	vertical-align: middle;
+	text-align:center;
+	
+}
+
+.getStarted  {
+	font-size: 16px;
+	border: solid 2px black;
+	padding: 5px;	
+}
+	.imgCode {
+	display: inline-block;
+	 margin-left: 200px;
+	 margin-top: 40px;
+	 vertical-align: middle;
+}
+
+.features {
+	display: inline-block;
+	width: 43%;
+	
+}
+
+.about {
+	display: inline-block;
+	width: 43%;
+	margin-left: 10%;
+}
+
+.middle-img {
+	margin: 30px 0px;
+}
+
+.sectionTriple {
+	padding-bottom: 20px;
+	border-bottom: solid 2px black;
+	margin-bottom: 20px;
+}
+
+.services {
+	width: 28%;
+	display: inline-block;
+}
+
+.product {
+	display: inline-block;
+	width: 28%;
+	margin-left: 7% 
+}
+
+.vision {
+	display: inline-block;
+	width: 28%;
+	margin-left: 7% 
+}
+
+address {
+	line-height: 20px;
+}
+
+.phoneEmail {
+	line-height: 40px;
+	margin-top:10px;
+}
+
+.copy {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
